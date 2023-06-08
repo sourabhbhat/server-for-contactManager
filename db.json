@@ -1,0 +1,10 @@
+{
+  "contacts": [
+    {
+      "id": "1f0f1bdf-bfc1-4715-a863-ff6a6c844983",
+      "name": "john",
+      "email": "johndoe@gmail.com",
+      "mobile": "987654321"
+    }
+  ]
+}
